@@ -70,21 +70,21 @@ Write a program to accept a number from a user and calculate the sum of all numb
 
 For example, if the user entered 10 the output should be 55 (1+2+3+4+5+6+7+8+9+10)
 
-
+# TODO 
 ## question 5
 Write a program to print multiplication table of a given number
 For example, num = 2 so the output should be
 
-# 2
-# 4
-# 6
-# 8
-# 10
-# 12
-# 14
-# 16
-# 18
-# 20
+### 2
+### 4
+### 6
+### 8
+### 10
+### 12
+### 14
+### 16
+### 18
+### 20
 
 ## question 6
 Write a program to display only those numbers from a list that satisfy the following conditions
