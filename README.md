@@ -111,5 +111,62 @@ Expected Output:
 For example: print('Name', 'Is', 'James') will display Name**Is**James
 
 
+Exercise 1: Reverse a list in Python
+Given:
+list1 = [100, 200, 300, 400, 500]
+
+Exercise 2 : Write a program to add two lists index-wise. Create a new list that contains the 0th index item from both the list, then the 1st index item, and so on till the last element. any leftover items will get added at the end of the new list.
+
+Given:
+list1 = ["M", "na", "i", "Ke"]
+list2 = ["y", "me", "s", "lly"]
+output ---> ['My', 'name', 'is', 'Kelly']
+
+Exercise 3 : Given a list of numbers. write a program to turn every item of a list into its square.
+
+Given:
+numbers = [1, 2, 3, 4, 5, 6, 7]
+Expected output:
+[1, 4, 9, 16, 25, 36, 49]
+
+exercise 4 : Write a program to add item 7000 after 6000 in the following Python List
+
+Given:
+
+list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
+Expected output:
+[10, 20, [300, 400, [5000, 6000, 7000], 500], 30, 40]
+
+Eercise 5 : You have given a Python list. Write a program to find value 20 in the list, and if it is present, replace it with 200. Only update the first occurrence of an item.
+Given:
+list1 = [5, 10, 15, 20, 25, 50, 20]
+Expected output:
+[5, 10, 15, 200, 25, 50, 20]
+
+exercise 6 : Get all values from the dictionary and add them to a list but don’t add duplicates
+Given:
+speed = {'jan': 47, 'feb': 52, 'march': 47, 'April': 44, 'May': 52, 'June': 53, 'july': 54, 'Aug': 44, 'Sept': 54}
+Expected Outcome:
+[47, 52, 44, 53, 54]
+
+exercise 7 : Count all letters, digits, and special symbols from a given string
+Given:
+
+str1 = "P@#yn26at^&i5ve"
+Expected Outcome:
+
+Total counts of chars, digits, and symbols 
+
+Chars = 8 
+Digits = 3 
+Symbol = 4
+
+Question:
+Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
+between 2000 and 3200 (both included).
+The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+Hints: 
+Consider use range(#begin, #end) method
 
 
